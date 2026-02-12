@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi there! 👋
 
 Python-разработчик, вы можете найти меня в [telegram](https://t.me/rbexter)
 
